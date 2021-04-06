@@ -1,0 +1,6 @@
+uv:
+    calculate: true
+
+spring:
+    profiles:
+        active: dev

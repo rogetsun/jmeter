@@ -1,0 +1,17 @@
+
+spring:
+    profiles:
+        active: pro
+    devtools:
+        livereload:
+            enabled: false
+        restart:
+            enabled: false
+        remote:
+            restart:
+                enabled: false
+server:
+    port: 9786
+
+uv:
+    calculate: false
