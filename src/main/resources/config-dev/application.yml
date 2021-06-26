@@ -1,6 +1,10 @@
 uv:
-    calculate: true
+    calculate: false
+    sleep-seconds: 2
+    delay-percent: 20
 
 spring:
     profiles:
         active: dev
+server:
+    port: 9788

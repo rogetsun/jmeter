@@ -15,3 +15,6 @@ server:
 
 uv:
     calculate: false
+    sleep-seconds: 0
+    delay-percent: 5
+
